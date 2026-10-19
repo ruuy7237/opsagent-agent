@@ -1,0 +1,68 @@
+{
+  "dataset": {
+    "tickets": 120,
+    "source": "自建仿真（seed=42）",
+    "categories": [
+      "account_locked",
+      "asset_request",
+      "network",
+      "password_reset",
+      "software",
+      "unknown"
+    ]
+  },
+  "outcome": {
+    "closed": 96,
+    "escalated": 24,
+    "closed_loop_rate": 0.8,
+    "escalation_rate": 0.2,
+    "closed_loop_ci95_low": 0.7196
+  },
+  "safety": {
+    "wrong_action_tickets": 0,
+    "wrong_action_rate": 0.0,
+    "human_confirmations": 16
+  },
+  "efficiency": {
+    "avg_steps": 2.3,
+    "p95_latency_ms": 4.96
+  },
+  "per_category": {
+    "account_locked": {
+      "n": 20,
+      "closed": 20,
+      "escalated": 0,
+      "avg_steps": 3
+    },
+    "asset_request": {
+      "n": 20,
+      "closed": 16,
+      "escalated": 4,
+      "avg_steps": 2.8
+    },
+    "network": {
+      "n": 20,
+      "closed": 20,
+      "escalated": 0,
+      "avg_steps": 2
+    },
+    "password_reset": {
+      "n": 20,
+      "closed": 20,
+      "escalated": 0,
+      "avg_steps": 3
+    },
+    "software": {
+      "n": 20,
+      "closed": 20,
+      "escalated": 0,
+      "avg_steps": 2
+    },
+    "unknown": {
+      "n": 20,
+      "closed": 0,
+      "escalated": 20,
+      "avg_steps": 1
+    }
+  }
+}

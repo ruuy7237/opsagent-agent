@@ -1,0 +1,708 @@
+{
+  "users": {
+    "E001": {
+      "id": "E001",
+      "name": "王伟",
+      "account": "user001",
+      "dept": "财务部",
+      "status": "active",
+      "locked_until": null,
+      "mfa": false,
+      "vpn": "ok",
+      "port": "B2-1",
+      "latency": 23
+    },
+    "E002": {
+      "id": "E002",
+      "name": "韩娜",
+      "account": "user002",
+      "dept": "研发中心",
+      "status": "active",
+      "locked_until": null,
+      "mfa": false,
+      "vpn": "ok",
+      "port": "B2-2",
+      "latency": 13
+    },
+    "E003": {
+      "id": "E003",
+      "name": "华伟",
+      "account": "user003",
+      "dept": "研发中心",
+      "status": "active",
+      "locked_until": null,
+      "mfa": true,
+      "vpn": "ok",
+      "port": "B2-3",
+      "latency": 13
+    },
+    "E004": {
+      "id": "E004",
+      "name": "沈敏",
+      "account": "user004",
+      "dept": "客户成功部",
+      "status": "active",
+      "locked_until": null,
+      "mfa": false,
+      "vpn": "ok",
+      "port": "B2-4",
+      "latency": 9
+    },
+    "E005": {
+      "id": "E005",
+      "name": "蒋明",
+      "account": "user005",
+      "dept": "客户成功部",
+      "status": "active",
+      "locked_until": null,
+      "mfa": false,
+      "vpn": "ok",
+      "port": "B2-5",
+      "latency": 34
+    },
+    "E006": {
+      "id": "E006",
+      "name": "韩勇",
+      "account": "user006",
+      "dept": "客户成功部",
+      "status": "active",
+      "locked_until": null,
+      "mfa": true,
+      "vpn": "ok",
+      "port": "B2-6",
+      "latency": 25
+    },
+    "E007": {
+      "id": "E007",
+      "name": "赵超",
+      "account": "user007",
+      "dept": "市场部",
+      "status": "active",
+      "locked_until": null,
+      "mfa": false,
+      "vpn": "ok",
+      "port": "B2-7",
+      "latency": 35
+    },
+    "E008": {
+      "id": "E008",
+      "name": "吕静",
+      "account": "user008",
+      "dept": "市场部",
+      "status": "active",
+      "locked_until": null,
+      "mfa": false,
+      "vpn": "ok",
+      "port": "B2-8",
+      "latency": 21
+    },
+    "E009": {
+      "id": "E009",
+      "name": "吕芳",
+      "account": "user009",
+      "dept": "研发中心",
+      "status": "active",
+      "locked_until": null,
+      "mfa": true,
+      "vpn": "ok",
+      "port": "B2-9",
+      "latency": 32
+    },
+    "E010": {
+      "id": "E010",
+      "name": "郑磊",
+      "account": "user010",
+      "dept": "财务部",
+      "status": "active",
+      "locked_until": null,
+      "mfa": false,
+      "vpn": "ok",
+      "port": "B2-10",
+      "latency": 24
+    },
+    "E011": {
+      "id": "E011",
+      "name": "孙明",
+      "account": "user011",
+      "dept": "人力资源部",
+      "status": "locked",
+      "locked_until": "2026-10-19T18:00:00",
+      "mfa": false,
+      "vpn": "ok",
+      "port": "B2-11",
+      "latency": 15
+    },
+    "E012": {
+      "id": "E012",
+      "name": "孔芳",
+      "account": "user012",
+      "dept": "客户成功部",
+      "status": "active",
+      "locked_until": null,
+      "mfa": true,
+      "vpn": "ok",
+      "port": "B2-12",
+      "latency": 26
+    },
+    "E013": {
+      "id": "E013",
+      "name": "张杰",
+      "account": "user013",
+      "dept": "市场部",
+      "status": "active",
+      "locked_until": null,
+      "mfa": false,
+      "vpn": "fail",
+      "port": "B2-13",
+      "latency": 180
+    },
+    "E014": {
+      "id": "E014",
+      "name": "周伟",
+      "account": "user014",
+      "dept": "市场部",
+      "status": "active",
+      "locked_until": null,
+      "mfa": false,
+      "vpn": "ok",
+      "port": "B2-14",
+      "latency": 26
+    },
+    "E015": {
+      "id": "E015",
+      "name": "吴秀英",
+      "account": "user015",
+      "dept": "市场部",
+      "status": "active",
+      "locked_until": null,
+      "mfa": true,
+      "vpn": "ok",
+      "port": "B2-15",
+      "latency": 14
+    },
+    "E016": {
+      "id": "E016",
+      "name": "孔静",
+      "account": "user016",
+      "dept": "人力资源部",
+      "status": "active",
+      "locked_until": null,
+      "mfa": false,
+      "vpn": "ok",
+      "port": "B2-16",
+      "latency": 31
+    },
+    "E017": {
+      "id": "E017",
+      "name": "褚磊",
+      "account": "user017",
+      "dept": "财务部",
+      "status": "active",
+      "locked_until": null,
+      "mfa": false,
+      "vpn": "ok",
+      "port": "B2-17",
+      "latency": 21
+    },
+    "E018": {
+      "id": "E018",
+      "name": "秦明",
+      "account": "user018",
+      "dept": "研发中心",
+      "status": "active",
+      "locked_until": null,
+      "mfa": true,
+      "vpn": "ok",
+      "port": "B2-18",
+      "latency": 18
+    },
+    "E019": {
+      "id": "E019",
+      "name": "杨娜",
+      "account": "user019",
+      "dept": "人力资源部",
+      "status": "active",
+      "locked_until": null,
+      "mfa": false,
+      "vpn": "ok",
+      "port": "B2-19",
+      "latency": 32
+    },
+    "E020": {
+      "id": "E020",
+      "name": "秦霞",
+      "account": "user020",
+      "dept": "客户成功部",
+      "status": "active",
+      "locked_until": null,
+      "mfa": false,
+      "vpn": "ok",
+      "port": "B2-20",
+      "latency": 22
+    },
+    "E021": {
+      "id": "E021",
+      "name": "何秀英",
+      "account": "user021",
+      "dept": "研发中心",
+      "status": "active",
+      "locked_until": null,
+      "mfa": true,
+      "vpn": "ok",
+      "port": "B2-21",
+      "latency": 22
+    },
+    "E022": {
+      "id": "E022",
+      "name": "孙超",
+      "account": "user022",
+      "dept": "财务部",
+      "status": "locked",
+      "locked_until": "2026-10-19T18:00:00",
+      "mfa": false,
+      "vpn": "ok",
+      "port": "B2-22",
+      "latency": 33
+    },
+    "E023": {
+      "id": "E023",
+      "name": "秦芳",
+      "account": "user023",
+      "dept": "市场部",
+      "status": "active",
+      "locked_until": null,
+      "mfa": false,
+      "vpn": "ok",
+      "port": "B2-23",
+      "latency": 28
+    },
+    "E024": {
+      "id": "E024",
+      "name": "沈涛",
+      "account": "user024",
+      "dept": "人力资源部",
+      "status": "active",
+      "locked_until": null,
+      "mfa": true,
+      "vpn": "ok",
+      "port": "B2-24",
+      "latency": 33
+    },
+    "E025": {
+      "id": "E025",
+      "name": "魏娜",
+      "account": "user025",
+      "dept": "财务部",
+      "status": "active",
+      "locked_until": null,
+      "mfa": false,
+      "vpn": "ok",
+      "port": "B2-25",
+      "latency": 16
+    },
+    "E026": {
+      "id": "E026",
+      "name": "杨明",
+      "account": "user026",
+      "dept": "客户成功部",
+      "status": "active",
+      "locked_until": null,
+      "mfa": false,
+      "vpn": "fail",
+      "port": "B2-26",
+      "latency": 180
+    },
+    "E027": {
+      "id": "E027",
+      "name": "朱明",
+      "account": "user027",
+      "dept": "客户成功部",
+      "status": "active",
+      "locked_until": null,
+      "mfa": true,
+      "vpn": "ok",
+      "port": "B2-27",
+      "latency": 35
+    },
+    "E028": {
+      "id": "E028",
+      "name": "曹磊",
+      "account": "user028",
+      "dept": "市场部",
+      "status": "active",
+      "locked_until": null,
+      "mfa": false,
+      "vpn": "ok",
+      "port": "B2-28",
+      "latency": 16
+    },
+    "E029": {
+      "id": "E029",
+      "name": "姜芳",
+      "account": "user029",
+      "dept": "研发中心",
+      "status": "active",
+      "locked_until": null,
+      "mfa": false,
+      "vpn": "ok",
+      "port": "B2-29",
+      "latency": 15
+    },
+    "E030": {
+      "id": "E030",
+      "name": "陈涛",
+      "account": "user030",
+      "dept": "市场部",
+      "status": "active",
+      "locked_until": null,
+      "mfa": true,
+      "vpn": "ok",
+      "port": "B2-30",
+      "latency": 35
+    },
+    "E031": {
+      "id": "E031",
+      "name": "周洋",
+      "account": "user031",
+      "dept": "人力资源部",
+      "status": "active",
+      "locked_until": null,
+      "mfa": false,
+      "vpn": "ok",
+      "port": "B2-31",
+      "latency": 37
+    },
+    "E032": {
+      "id": "E032",
+      "name": "朱艳",
+      "account": "user032",
+      "dept": "研发中心",
+      "status": "active",
+      "locked_until": null,
+      "mfa": false,
+      "vpn": "ok",
+      "port": "B2-32",
+      "latency": 15
+    },
+    "E033": {
+      "id": "E033",
+      "name": "秦超",
+      "account": "user033",
+      "dept": "财务部",
+      "status": "locked",
+      "locked_until": "2026-10-19T18:00:00",
+      "mfa": true,
+      "vpn": "ok",
+      "port": "B2-33",
+      "latency": 15
+    },
+    "E034": {
+      "id": "E034",
+      "name": "尤洋",
+      "account": "user034",
+      "dept": "市场部",
+      "status": "active",
+      "locked_until": null,
+      "mfa": false,
+      "vpn": "ok",
+      "port": "B2-34",
+      "latency": 37
+    },
+    "E035": {
+      "id": "E035",
+      "name": "赵明",
+      "account": "user035",
+      "dept": "财务部",
+      "status": "active",
+      "locked_until": null,
+      "mfa": false,
+      "vpn": "ok",
+      "port": "B2-35",
+      "latency": 40
+    },
+    "E036": {
+      "id": "E036",
+      "name": "卫艳",
+      "account": "user036",
+      "dept": "研发中心",
+      "status": "active",
+      "locked_until": null,
+      "mfa": true,
+      "vpn": "ok",
+      "port": "B2-36",
+      "latency": 27
+    },
+    "E037": {
+      "id": "E037",
+      "name": "蒋娜",
+      "account": "user037",
+      "dept": "财务部",
+      "status": "active",
+      "locked_until": null,
+      "mfa": false,
+      "vpn": "ok",
+      "port": "B2-37",
+      "latency": 18
+    },
+    "E038": {
+      "id": "E038",
+      "name": "赵杰",
+      "account": "user038",
+      "dept": "财务部",
+      "status": "active",
+      "locked_until": null,
+      "mfa": false,
+      "vpn": "ok",
+      "port": "B2-38",
+      "latency": 39
+    },
+    "E039": {
+      "id": "E039",
+      "name": "钱芳",
+      "account": "user039",
+      "dept": "财务部",
+      "status": "active",
+      "locked_until": null,
+      "mfa": true,
+      "vpn": "fail",
+      "port": "B2-39",
+      "latency": 180
+    },
+    "E040": {
+      "id": "E040",
+      "name": "许敏",
+      "account": "user040",
+      "dept": "研发中心",
+      "status": "active",
+      "locked_until": null,
+      "mfa": false,
+      "vpn": "ok",
+      "port": "B2-40",
+      "latency": 23
+    }
+  },
+  "assets": {
+    "PC-000": {
+      "asset_id": "PC-000",
+      "type": "扩展坞",
+      "status": "in_use",
+      "holder": "E006"
+    },
+    "PC-001": {
+      "asset_id": "PC-001",
+      "type": "笔记本",
+      "status": "idle",
+      "holder": null
+    },
+    "PC-002": {
+      "asset_id": "PC-002",
+      "type": "扩展坞",
+      "status": "idle",
+      "holder": null
+    },
+    "PC-003": {
+      "asset_id": "PC-003",
+      "type": "显示器",
+      "status": "idle",
+      "holder": null
+    },
+    "PC-004": {
+      "asset_id": "PC-004",
+      "type": "笔记本",
+      "status": "in_use",
+      "holder": "E035"
+    },
+    "PC-005": {
+      "asset_id": "PC-005",
+      "type": "笔记本",
+      "status": "idle",
+      "holder": null
+    },
+    "PC-006": {
+      "asset_id": "PC-006",
+      "type": "笔记本",
+      "status": "idle",
+      "holder": null
+    },
+    "PC-007": {
+      "asset_id": "PC-007",
+      "type": "扩展坞",
+      "status": "idle",
+      "holder": null
+    },
+    "PC-008": {
+      "asset_id": "PC-008",
+      "type": "显示器",
+      "status": "in_use",
+      "holder": "E036"
+    },
+    "PC-009": {
+      "asset_id": "PC-009",
+      "type": "笔记本",
+      "status": "idle",
+      "holder": null
+    },
+    "PC-010": {
+      "asset_id": "PC-010",
+      "type": "显示器",
+      "status": "idle",
+      "holder": null
+    },
+    "PC-011": {
+      "asset_id": "PC-011",
+      "type": "扩展坞",
+      "status": "idle",
+      "holder": null
+    },
+    "PC-012": {
+      "asset_id": "PC-012",
+      "type": "扩展坞",
+      "status": "in_use",
+      "holder": "E028"
+    },
+    "PC-013": {
+      "asset_id": "PC-013",
+      "type": "笔记本",
+      "status": "idle",
+      "holder": null
+    },
+    "PC-014": {
+      "asset_id": "PC-014",
+      "type": "扩展坞",
+      "status": "idle",
+      "holder": null
+    },
+    "PC-015": {
+      "asset_id": "PC-015",
+      "type": "扩展坞",
+      "status": "idle",
+      "holder": null
+    },
+    "PC-016": {
+      "asset_id": "PC-016",
+      "type": "扩展坞",
+      "status": "in_use",
+      "holder": "E013"
+    },
+    "PC-017": {
+      "asset_id": "PC-017",
+      "type": "扩展坞",
+      "status": "idle",
+      "holder": null
+    },
+    "PC-018": {
+      "asset_id": "PC-018",
+      "type": "显示器",
+      "status": "idle",
+      "holder": null
+    },
+    "PC-019": {
+      "asset_id": "PC-019",
+      "type": "显示器",
+      "status": "idle",
+      "holder": null
+    },
+    "PC-020": {
+      "asset_id": "PC-020",
+      "type": "扩展坞",
+      "status": "in_use",
+      "holder": "E024"
+    },
+    "PC-021": {
+      "asset_id": "PC-021",
+      "type": "显示器",
+      "status": "idle",
+      "holder": null
+    },
+    "PC-022": {
+      "asset_id": "PC-022",
+      "type": "扩展坞",
+      "status": "idle",
+      "holder": null
+    },
+    "PC-023": {
+      "asset_id": "PC-023",
+      "type": "显示器",
+      "status": "idle",
+      "holder": null
+    },
+    "PC-024": {
+      "asset_id": "PC-024",
+      "type": "笔记本",
+      "status": "in_use",
+      "holder": "E016"
+    },
+    "PC-025": {
+      "asset_id": "PC-025",
+      "type": "笔记本",
+      "status": "idle",
+      "holder": null
+    },
+    "PC-026": {
+      "asset_id": "PC-026",
+      "type": "笔记本",
+      "status": "idle",
+      "holder": null
+    },
+    "PC-027": {
+      "asset_id": "PC-027",
+      "type": "显示器",
+      "status": "idle",
+      "holder": null
+    },
+    "PC-028": {
+      "asset_id": "PC-028",
+      "type": "笔记本",
+      "status": "in_use",
+      "holder": "E038"
+    },
+    "PC-029": {
+      "asset_id": "PC-029",
+      "type": "扩展坞",
+      "status": "idle",
+      "holder": null
+    }
+  },
+  "kb": [
+    {
+      "id": "k1",
+      "title": "密码过期与重置",
+      "body": "密码有效期 90 天，过期后可在自助门户重置，重置后需 5 分钟内修改临时密码。"
+    },
+    {
+      "id": "k2",
+      "title": "账号锁定规则",
+      "body": "连续 5 次密码错误锁定 30 分钟，也可由服务台手工解锁。"
+    },
+    {
+      "id": "k3",
+      "title": "VPN 连接失败排查",
+      "body": "先确认客户端版本，再检查本地网络与证书有效期，最后检查账号是否被禁用。"
+    },
+    {
+      "id": "k4",
+      "title": "资产申领流程",
+      "body": "申领需先确认库存，由服务台分配并登记资产编号，资产不可逆转移需本人签收。"
+    },
+    {
+      "id": "k5",
+      "title": "邮件客户端配置",
+      "body": "使用 IMAP 993 与 SMTP 465 加密端口，账号为域账号全称。"
+    },
+    {
+      "id": "k6",
+      "title": "打印机离线处理",
+      "body": "检查队列是否卡死、驱动是否为最新版本，必要时重启打印服务。"
+    },
+    {
+      "id": "k7",
+      "title": "权限申请",
+      "body": "系统权限需上级审批，服务台仅受理已审批单据。"
+    },
+    {
+      "id": "k8",
+      "title": "会议设备故障",
+      "body": "先检查 HDMI 与供电，再检查投屏码是否过期。"
+    }
+  ]
+}

@@ -1,0 +1,120 @@
+{"ticket_id": "T0001", "employee_id": "E001", "category": "password_reset", "issue": "我密码过期了，登录不了 OA", "expected_actions": ["check_account", "reset_password", "close_ticket"], "needs_confirmation": false}
+{"ticket_id": "T0002", "employee_id": "E002", "category": "account_locked", "issue": "账号被锁了，提示密码错误次数过多", "expected_actions": ["check_account", "unlock_account", "close_ticket"], "needs_confirmation": false}
+{"ticket_id": "T0003", "employee_id": "E003", "category": "asset_request", "issue": "新同事入职需要一台笔记本", "expected_actions": ["check_asset", "escalate"], "needs_confirmation": true, "force_asset_shortage": true}
+{"ticket_id": "T0004", "employee_id": "E004", "category": "network", "issue": "连不上公司 VPN，一直转圈", "expected_actions": ["check_network", "close_ticket"], "needs_confirmation": false}
+{"ticket_id": "T0005", "employee_id": "E005", "category": "software", "issue": "Outlook 收不到邮件怎么配置", "expected_actions": ["search_kb", "close_ticket"], "needs_confirmation": false}
+{"ticket_id": "T0006", "employee_id": "E006", "category": "unknown", "issue": "会议室的灯一直闪，能不能派人来看", "expected_actions": ["escalate"], "needs_confirmation": false}
+{"ticket_id": "T0007", "employee_id": "E007", "category": "password_reset", "issue": "我密码过期了，登录不了 OA", "expected_actions": ["check_account", "reset_password", "close_ticket"], "needs_confirmation": false}
+{"ticket_id": "T0008", "employee_id": "E008", "category": "account_locked", "issue": "账号被锁了，提示密码错误次数过多", "expected_actions": ["check_account", "unlock_account", "close_ticket"], "needs_confirmation": false}
+{"ticket_id": "T0009", "employee_id": "E009", "category": "asset_request", "issue": "新同事入职需要一台笔记本", "expected_actions": ["check_asset", "assign_asset", "close_ticket"], "needs_confirmation": true}
+{"ticket_id": "T0010", "employee_id": "E010", "category": "network", "issue": "连不上公司 VPN，一直转圈", "expected_actions": ["check_network", "close_ticket"], "needs_confirmation": false}
+{"ticket_id": "T0011", "employee_id": "E011", "category": "software", "issue": "Outlook 收不到邮件怎么配置", "expected_actions": ["search_kb", "close_ticket"], "needs_confirmation": false}
+{"ticket_id": "T0012", "employee_id": "E012", "category": "unknown", "issue": "会议室的灯一直闪，能不能派人来看", "expected_actions": ["escalate"], "needs_confirmation": false}
+{"ticket_id": "T0013", "employee_id": "E013", "category": "password_reset", "issue": "我密码过期了，登录不了 OA", "expected_actions": ["check_account", "reset_password", "close_ticket"], "needs_confirmation": false}
+{"ticket_id": "T0014", "employee_id": "E014", "category": "account_locked", "issue": "账号被锁了，提示密码错误次数过多", "expected_actions": ["check_account", "unlock_account", "close_ticket"], "needs_confirmation": false}
+{"ticket_id": "T0015", "employee_id": "E015", "category": "asset_request", "issue": "新同事入职需要一台笔记本", "expected_actions": ["check_asset", "assign_asset", "close_ticket"], "needs_confirmation": true}
+{"ticket_id": "T0016", "employee_id": "E016", "category": "network", "issue": "连不上公司 VPN，一直转圈", "expected_actions": ["check_network", "close_ticket"], "needs_confirmation": false}
+{"ticket_id": "T0017", "employee_id": "E017", "category": "software", "issue": "Outlook 收不到邮件怎么配置", "expected_actions": ["search_kb", "close_ticket"], "needs_confirmation": false}
+{"ticket_id": "T0018", "employee_id": "E018", "category": "unknown", "issue": "会议室的灯一直闪，能不能派人来看", "expected_actions": ["escalate"], "needs_confirmation": false}
+{"ticket_id": "T0019", "employee_id": "E019", "category": "password_reset", "issue": "我密码过期了，登录不了 OA", "expected_actions": ["check_account", "reset_password", "close_ticket"], "needs_confirmation": false}
+{"ticket_id": "T0020", "employee_id": "E020", "category": "account_locked", "issue": "账号被锁了，提示密码错误次数过多", "expected_actions": ["check_account", "unlock_account", "close_ticket"], "needs_confirmation": false}
+{"ticket_id": "T0021", "employee_id": "E021", "category": "asset_request", "issue": "新同事入职需要一台笔记本", "expected_actions": ["check_asset", "assign_asset", "close_ticket"], "needs_confirmation": true}
+{"ticket_id": "T0022", "employee_id": "E022", "category": "network", "issue": "连不上公司 VPN，一直转圈", "expected_actions": ["check_network", "close_ticket"], "needs_confirmation": false}
+{"ticket_id": "T0023", "employee_id": "E023", "category": "software", "issue": "Outlook 收不到邮件怎么配置", "expected_actions": ["search_kb", "close_ticket"], "needs_confirmation": false}
+{"ticket_id": "T0024", "employee_id": "E024", "category": "unknown", "issue": "会议室的灯一直闪，能不能派人来看", "expected_actions": ["escalate"], "needs_confirmation": false}
+{"ticket_id": "T0025", "employee_id": "E025", "category": "password_reset", "issue": "我密码过期了，登录不了 OA", "expected_actions": ["check_account", "reset_password", "close_ticket"], "needs_confirmation": false}
+{"ticket_id": "T0026", "employee_id": "E026", "category": "account_locked", "issue": "账号被锁了，提示密码错误次数过多", "expected_actions": ["check_account", "unlock_account", "close_ticket"], "needs_confirmation": false}
+{"ticket_id": "T0027", "employee_id": "E027", "category": "asset_request", "issue": "新同事入职需要一台笔记本", "expected_actions": ["check_asset", "assign_asset", "close_ticket"], "needs_confirmation": true}
+{"ticket_id": "T0028", "employee_id": "E028", "category": "network", "issue": "连不上公司 VPN，一直转圈", "expected_actions": ["check_network", "close_ticket"], "needs_confirmation": false}
+{"ticket_id": "T0029", "employee_id": "E029", "category": "software", "issue": "Outlook 收不到邮件怎么配置", "expected_actions": ["search_kb", "close_ticket"], "needs_confirmation": false}
+{"ticket_id": "T0030", "employee_id": "E030", "category": "unknown", "issue": "会议室的灯一直闪，能不能派人来看", "expected_actions": ["escalate"], "needs_confirmation": false}
+{"ticket_id": "T0031", "employee_id": "E031", "category": "password_reset", "issue": "我密码过期了，登录不了 OA", "expected_actions": ["check_account", "reset_password", "close_ticket"], "needs_confirmation": false}
+{"ticket_id": "T0032", "employee_id": "E032", "category": "account_locked", "issue": "账号被锁了，提示密码错误次数过多", "expected_actions": ["check_account", "unlock_account", "close_ticket"], "needs_confirmation": false}
+{"ticket_id": "T0033", "employee_id": "E033", "category": "asset_request", "issue": "新同事入职需要一台笔记本", "expected_actions": ["check_asset", "escalate"], "needs_confirmation": true, "force_asset_shortage": true}
+{"ticket_id": "T0034", "employee_id": "E034", "category": "network", "issue": "连不上公司 VPN，一直转圈", "expected_actions": ["check_network", "close_ticket"], "needs_confirmation": false}
+{"ticket_id": "T0035", "employee_id": "E035", "category": "software", "issue": "Outlook 收不到邮件怎么配置", "expected_actions": ["search_kb", "close_ticket"], "needs_confirmation": false}
+{"ticket_id": "T0036", "employee_id": "E036", "category": "unknown", "issue": "会议室的灯一直闪，能不能派人来看", "expected_actions": ["escalate"], "needs_confirmation": false}
+{"ticket_id": "T0037", "employee_id": "E037", "category": "password_reset", "issue": "我密码过期了，登录不了 OA", "expected_actions": ["check_account", "reset_password", "close_ticket"], "needs_confirmation": false}
+{"ticket_id": "T0038", "employee_id": "E038", "category": "account_locked", "issue": "账号被锁了，提示密码错误次数过多", "expected_actions": ["check_account", "unlock_account", "close_ticket"], "needs_confirmation": false}
+{"ticket_id": "T0039", "employee_id": "E039", "category": "asset_request", "issue": "新同事入职需要一台笔记本", "expected_actions": ["check_asset", "assign_asset", "close_ticket"], "needs_confirmation": true}
+{"ticket_id": "T0040", "employee_id": "E040", "category": "network", "issue": "连不上公司 VPN，一直转圈", "expected_actions": ["check_network", "close_ticket"], "needs_confirmation": false}
+{"ticket_id": "T0041", "employee_id": "E001", "category": "software", "issue": "Outlook 收不到邮件怎么配置", "expected_actions": ["search_kb", "close_ticket"], "needs_confirmation": false}
+{"ticket_id": "T0042", "employee_id": "E002", "category": "unknown", "issue": "会议室的灯一直闪，能不能派人来看", "expected_actions": ["escalate"], "needs_confirmation": false}
+{"ticket_id": "T0043", "employee_id": "E003", "category": "password_reset", "issue": "我密码过期了，登录不了 OA", "expected_actions": ["check_account", "reset_password", "close_ticket"], "needs_confirmation": false}
+{"ticket_id": "T0044", "employee_id": "E004", "category": "account_locked", "issue": "账号被锁了，提示密码错误次数过多", "expected_actions": ["check_account", "unlock_account", "close_ticket"], "needs_confirmation": false}
+{"ticket_id": "T0045", "employee_id": "E005", "category": "asset_request", "issue": "新同事入职需要一台笔记本", "expected_actions": ["check_asset", "assign_asset", "close_ticket"], "needs_confirmation": true}
+{"ticket_id": "T0046", "employee_id": "E006", "category": "network", "issue": "连不上公司 VPN，一直转圈", "expected_actions": ["check_network", "close_ticket"], "needs_confirmation": false}
+{"ticket_id": "T0047", "employee_id": "E007", "category": "software", "issue": "Outlook 收不到邮件怎么配置", "expected_actions": ["search_kb", "close_ticket"], "needs_confirmation": false}
+{"ticket_id": "T0048", "employee_id": "E008", "category": "unknown", "issue": "会议室的灯一直闪，能不能派人来看", "expected_actions": ["escalate"], "needs_confirmation": false}
+{"ticket_id": "T0049", "employee_id": "E009", "category": "password_reset", "issue": "我密码过期了，登录不了 OA", "expected_actions": ["check_account", "reset_password", "close_ticket"], "needs_confirmation": false}
+{"ticket_id": "T0050", "employee_id": "E010", "category": "account_locked", "issue": "账号被锁了，提示密码错误次数过多", "expected_actions": ["check_account", "unlock_account", "close_ticket"], "needs_confirmation": false}
+{"ticket_id": "T0051", "employee_id": "E011", "category": "asset_request", "issue": "新同事入职需要一台笔记本", "expected_actions": ["check_asset", "assign_asset", "close_ticket"], "needs_confirmation": true}
+{"ticket_id": "T0052", "employee_id": "E012", "category": "network", "issue": "连不上公司 VPN，一直转圈", "expected_actions": ["check_network", "close_ticket"], "needs_confirmation": false}
+{"ticket_id": "T0053", "employee_id": "E013", "category": "software", "issue": "Outlook 收不到邮件怎么配置", "expected_actions": ["search_kb", "close_ticket"], "needs_confirmation": false}
+{"ticket_id": "T0054", "employee_id": "E014", "category": "unknown", "issue": "会议室的灯一直闪，能不能派人来看", "expected_actions": ["escalate"], "needs_confirmation": false}
+{"ticket_id": "T0055", "employee_id": "E015", "category": "password_reset", "issue": "我密码过期了，登录不了 OA", "expected_actions": ["check_account", "reset_password", "close_ticket"], "needs_confirmation": false}
+{"ticket_id": "T0056", "employee_id": "E016", "category": "account_locked", "issue": "账号被锁了，提示密码错误次数过多", "expected_actions": ["check_account", "unlock_account", "close_ticket"], "needs_confirmation": false}
+{"ticket_id": "T0057", "employee_id": "E017", "category": "asset_request", "issue": "新同事入职需要一台笔记本", "expected_actions": ["check_asset", "assign_asset", "close_ticket"], "needs_confirmation": true}
+{"ticket_id": "T0058", "employee_id": "E018", "category": "network", "issue": "连不上公司 VPN，一直转圈", "expected_actions": ["check_network", "close_ticket"], "needs_confirmation": false}
+{"ticket_id": "T0059", "employee_id": "E019", "category": "software", "issue": "Outlook 收不到邮件怎么配置", "expected_actions": ["search_kb", "close_ticket"], "needs_confirmation": false}
+{"ticket_id": "T0060", "employee_id": "E020", "category": "unknown", "issue": "会议室的灯一直闪，能不能派人来看", "expected_actions": ["escalate"], "needs_confirmation": false}
+{"ticket_id": "T0061", "employee_id": "E021", "category": "password_reset", "issue": "我密码过期了，登录不了 OA", "expected_actions": ["check_account", "reset_password", "close_ticket"], "needs_confirmation": false}
+{"ticket_id": "T0062", "employee_id": "E022", "category": "account_locked", "issue": "账号被锁了，提示密码错误次数过多", "expected_actions": ["check_account", "unlock_account", "close_ticket"], "needs_confirmation": false}
+{"ticket_id": "T0063", "employee_id": "E023", "category": "asset_request", "issue": "新同事入职需要一台笔记本", "expected_actions": ["check_asset", "escalate"], "needs_confirmation": true, "force_asset_shortage": true}
+{"ticket_id": "T0064", "employee_id": "E024", "category": "network", "issue": "连不上公司 VPN，一直转圈", "expected_actions": ["check_network", "close_ticket"], "needs_confirmation": false}
+{"ticket_id": "T0065", "employee_id": "E025", "category": "software", "issue": "Outlook 收不到邮件怎么配置", "expected_actions": ["search_kb", "close_ticket"], "needs_confirmation": false}
+{"ticket_id": "T0066", "employee_id": "E026", "category": "unknown", "issue": "会议室的灯一直闪，能不能派人来看", "expected_actions": ["escalate"], "needs_confirmation": false}
+{"ticket_id": "T0067", "employee_id": "E027", "category": "password_reset", "issue": "我密码过期了，登录不了 OA", "expected_actions": ["check_account", "reset_password", "close_ticket"], "needs_confirmation": false}
+{"ticket_id": "T0068", "employee_id": "E028", "category": "account_locked", "issue": "账号被锁了，提示密码错误次数过多", "expected_actions": ["check_account", "unlock_account", "close_ticket"], "needs_confirmation": false}
+{"ticket_id": "T0069", "employee_id": "E029", "category": "asset_request", "issue": "新同事入职需要一台笔记本", "expected_actions": ["check_asset", "assign_asset", "close_ticket"], "needs_confirmation": true}
+{"ticket_id": "T0070", "employee_id": "E030", "category": "network", "issue": "连不上公司 VPN，一直转圈", "expected_actions": ["check_network", "close_ticket"], "needs_confirmation": false}
+{"ticket_id": "T0071", "employee_id": "E031", "category": "software", "issue": "Outlook 收不到邮件怎么配置", "expected_actions": ["search_kb", "close_ticket"], "needs_confirmation": false}
+{"ticket_id": "T0072", "employee_id": "E032", "category": "unknown", "issue": "会议室的灯一直闪，能不能派人来看", "expected_actions": ["escalate"], "needs_confirmation": false}
+{"ticket_id": "T0073", "employee_id": "E033", "category": "password_reset", "issue": "我密码过期了，登录不了 OA", "expected_actions": ["check_account", "reset_password", "close_ticket"], "needs_confirmation": false}
+{"ticket_id": "T0074", "employee_id": "E034", "category": "account_locked", "issue": "账号被锁了，提示密码错误次数过多", "expected_actions": ["check_account", "unlock_account", "close_ticket"], "needs_confirmation": false}
+{"ticket_id": "T0075", "employee_id": "E035", "category": "asset_request", "issue": "新同事入职需要一台笔记本", "expected_actions": ["check_asset", "assign_asset", "close_ticket"], "needs_confirmation": true}
+{"ticket_id": "T0076", "employee_id": "E036", "category": "network", "issue": "连不上公司 VPN，一直转圈", "expected_actions": ["check_network", "close_ticket"], "needs_confirmation": false}
+{"ticket_id": "T0077", "employee_id": "E037", "category": "software", "issue": "Outlook 收不到邮件怎么配置", "expected_actions": ["search_kb", "close_ticket"], "needs_confirmation": false}
+{"ticket_id": "T0078", "employee_id": "E038", "category": "unknown", "issue": "会议室的灯一直闪，能不能派人来看", "expected_actions": ["escalate"], "needs_confirmation": false}
+{"ticket_id": "T0079", "employee_id": "E039", "category": "password_reset", "issue": "我密码过期了，登录不了 OA", "expected_actions": ["check_account", "reset_password", "close_ticket"], "needs_confirmation": false}
+{"ticket_id": "T0080", "employee_id": "E040", "category": "account_locked", "issue": "账号被锁了，提示密码错误次数过多", "expected_actions": ["check_account", "unlock_account", "close_ticket"], "needs_confirmation": false}
+{"ticket_id": "T0081", "employee_id": "E001", "category": "asset_request", "issue": "新同事入职需要一台笔记本", "expected_actions": ["check_asset", "assign_asset", "close_ticket"], "needs_confirmation": true}
+{"ticket_id": "T0082", "employee_id": "E002", "category": "network", "issue": "连不上公司 VPN，一直转圈", "expected_actions": ["check_network", "close_ticket"], "needs_confirmation": false}
+{"ticket_id": "T0083", "employee_id": "E003", "category": "software", "issue": "Outlook 收不到邮件怎么配置", "expected_actions": ["search_kb", "close_ticket"], "needs_confirmation": false}
+{"ticket_id": "T0084", "employee_id": "E004", "category": "unknown", "issue": "会议室的灯一直闪，能不能派人来看", "expected_actions": ["escalate"], "needs_confirmation": false}
+{"ticket_id": "T0085", "employee_id": "E005", "category": "password_reset", "issue": "我密码过期了，登录不了 OA", "expected_actions": ["check_account", "reset_password", "close_ticket"], "needs_confirmation": false}
+{"ticket_id": "T0086", "employee_id": "E006", "category": "account_locked", "issue": "账号被锁了，提示密码错误次数过多", "expected_actions": ["check_account", "unlock_account", "close_ticket"], "needs_confirmation": false}
+{"ticket_id": "T0087", "employee_id": "E007", "category": "asset_request", "issue": "新同事入职需要一台笔记本", "expected_actions": ["check_asset", "assign_asset", "close_ticket"], "needs_confirmation": true}
+{"ticket_id": "T0088", "employee_id": "E008", "category": "network", "issue": "连不上公司 VPN，一直转圈", "expected_actions": ["check_network", "close_ticket"], "needs_confirmation": false}
+{"ticket_id": "T0089", "employee_id": "E009", "category": "software", "issue": "Outlook 收不到邮件怎么配置", "expected_actions": ["search_kb", "close_ticket"], "needs_confirmation": false}
+{"ticket_id": "T0090", "employee_id": "E010", "category": "unknown", "issue": "会议室的灯一直闪，能不能派人来看", "expected_actions": ["escalate"], "needs_confirmation": false}
+{"ticket_id": "T0091", "employee_id": "E011", "category": "password_reset", "issue": "我密码过期了，登录不了 OA", "expected_actions": ["check_account", "reset_password", "close_ticket"], "needs_confirmation": false}
+{"ticket_id": "T0092", "employee_id": "E012", "category": "account_locked", "issue": "账号被锁了，提示密码错误次数过多", "expected_actions": ["check_account", "unlock_account", "close_ticket"], "needs_confirmation": false}
+{"ticket_id": "T0093", "employee_id": "E013", "category": "asset_request", "issue": "新同事入职需要一台笔记本", "expected_actions": ["check_asset", "escalate"], "needs_confirmation": true, "force_asset_shortage": true}
+{"ticket_id": "T0094", "employee_id": "E014", "category": "network", "issue": "连不上公司 VPN，一直转圈", "expected_actions": ["check_network", "close_ticket"], "needs_confirmation": false}
+{"ticket_id": "T0095", "employee_id": "E015", "category": "software", "issue": "Outlook 收不到邮件怎么配置", "expected_actions": ["search_kb", "close_ticket"], "needs_confirmation": false}
+{"ticket_id": "T0096", "employee_id": "E016", "category": "unknown", "issue": "会议室的灯一直闪，能不能派人来看", "expected_actions": ["escalate"], "needs_confirmation": false}
+{"ticket_id": "T0097", "employee_id": "E017", "category": "password_reset", "issue": "我密码过期了，登录不了 OA", "expected_actions": ["check_account", "reset_password", "close_ticket"], "needs_confirmation": false}
+{"ticket_id": "T0098", "employee_id": "E018", "category": "account_locked", "issue": "账号被锁了，提示密码错误次数过多", "expected_actions": ["check_account", "unlock_account", "close_ticket"], "needs_confirmation": false}
+{"ticket_id": "T0099", "employee_id": "E019", "category": "asset_request", "issue": "新同事入职需要一台笔记本", "expected_actions": ["check_asset", "assign_asset", "close_ticket"], "needs_confirmation": true}
+{"ticket_id": "T0100", "employee_id": "E020", "category": "network", "issue": "连不上公司 VPN，一直转圈", "expected_actions": ["check_network", "close_ticket"], "needs_confirmation": false}
+{"ticket_id": "T0101", "employee_id": "E021", "category": "software", "issue": "Outlook 收不到邮件怎么配置", "expected_actions": ["search_kb", "close_ticket"], "needs_confirmation": false}
+{"ticket_id": "T0102", "employee_id": "E022", "category": "unknown", "issue": "会议室的灯一直闪，能不能派人来看", "expected_actions": ["escalate"], "needs_confirmation": false}
+{"ticket_id": "T0103", "employee_id": "E023", "category": "password_reset", "issue": "我密码过期了，登录不了 OA", "expected_actions": ["check_account", "reset_password", "close_ticket"], "needs_confirmation": false}
+{"ticket_id": "T0104", "employee_id": "E024", "category": "account_locked", "issue": "账号被锁了，提示密码错误次数过多", "expected_actions": ["check_account", "unlock_account", "close_ticket"], "needs_confirmation": false}
+{"ticket_id": "T0105", "employee_id": "E025", "category": "asset_request", "issue": "新同事入职需要一台笔记本", "expected_actions": ["check_asset", "assign_asset", "close_ticket"], "needs_confirmation": true}
+{"ticket_id": "T0106", "employee_id": "E026", "category": "network", "issue": "连不上公司 VPN，一直转圈", "expected_actions": ["check_network", "close_ticket"], "needs_confirmation": false}
+{"ticket_id": "T0107", "employee_id": "E027", "category": "software", "issue": "Outlook 收不到邮件怎么配置", "expected_actions": ["search_kb", "close_ticket"], "needs_confirmation": false}
+{"ticket_id": "T0108", "employee_id": "E028", "category": "unknown", "issue": "会议室的灯一直闪，能不能派人来看", "expected_actions": ["escalate"], "needs_confirmation": false}
+{"ticket_id": "T0109", "employee_id": "E029", "category": "password_reset", "issue": "我密码过期了，登录不了 OA", "expected_actions": ["check_account", "reset_password", "close_ticket"], "needs_confirmation": false}
+{"ticket_id": "T0110", "employee_id": "E030", "category": "account_locked", "issue": "账号被锁了，提示密码错误次数过多", "expected_actions": ["check_account", "unlock_account", "close_ticket"], "needs_confirmation": false}
+{"ticket_id": "T0111", "employee_id": "E031", "category": "asset_request", "issue": "新同事入职需要一台笔记本", "expected_actions": ["check_asset", "assign_asset", "close_ticket"], "needs_confirmation": true}
+{"ticket_id": "T0112", "employee_id": "E032", "category": "network", "issue": "连不上公司 VPN，一直转圈", "expected_actions": ["check_network", "close_ticket"], "needs_confirmation": false}
+{"ticket_id": "T0113", "employee_id": "E033", "category": "software", "issue": "Outlook 收不到邮件怎么配置", "expected_actions": ["search_kb", "close_ticket"], "needs_confirmation": false}
+{"ticket_id": "T0114", "employee_id": "E034", "category": "unknown", "issue": "会议室的灯一直闪，能不能派人来看", "expected_actions": ["escalate"], "needs_confirmation": false}
+{"ticket_id": "T0115", "employee_id": "E035", "category": "password_reset", "issue": "我密码过期了，登录不了 OA", "expected_actions": ["check_account", "reset_password", "close_ticket"], "needs_confirmation": false}
+{"ticket_id": "T0116", "employee_id": "E036", "category": "account_locked", "issue": "账号被锁了，提示密码错误次数过多", "expected_actions": ["check_account", "unlock_account", "close_ticket"], "needs_confirmation": false}
+{"ticket_id": "T0117", "employee_id": "E037", "category": "asset_request", "issue": "新同事入职需要一台笔记本", "expected_actions": ["check_asset", "assign_asset", "close_ticket"], "needs_confirmation": true}
+{"ticket_id": "T0118", "employee_id": "E038", "category": "network", "issue": "连不上公司 VPN，一直转圈", "expected_actions": ["check_network", "close_ticket"], "needs_confirmation": false}
+{"ticket_id": "T0119", "employee_id": "E039", "category": "software", "issue": "Outlook 收不到邮件怎么配置", "expected_actions": ["search_kb", "close_ticket"], "needs_confirmation": false}
+{"ticket_id": "T0120", "employee_id": "E040", "category": "unknown", "issue": "会议室的灯一直闪，能不能派人来看", "expected_actions": ["escalate"], "needs_confirmation": false}
